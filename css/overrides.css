@@ -1,0 +1,37 @@
+/*Bootstrap overrides*/
+
+.nav {
+	padding-left: 50px;
+}
+
+.nav-tabs li a{
+	color: white;
+	border: none;
+}
+
+.nav-tabs li a:hover {
+	color: white;
+/*	background: rgb(255,203,5);*/
+	border: none;
+	border-bottom: 5px solid white;
+	padding-bottom: 5px;
+}
+
+.nav-tabs li a:visited {
+	background: rgb(255,208,125);
+	border-bottom: 5px solid white;
+	padding-bottom: 5px;
+
+}
+
+.nav-tabs {
+	background-color: rgb(255,208,125);
+	
+}
+
+.sitename {
+	margin-top: 10px;
+	margin-right: 50px;
+	color: white;
+	font-weight: bold;
+}
