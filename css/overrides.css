@@ -1,11 +1,6 @@
 /*Bootstrap overrides*/
 font-family: 'Roboto Slab', serif;
 
-.barcontainer{
-	text-align: center;
-	font-size: 20px;
-}
-
 .navoverride {
 	min-width: 520px;
 	margin: 0 auto;
