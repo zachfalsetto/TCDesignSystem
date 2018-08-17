@@ -9,10 +9,6 @@ font-family: 'Roboto Slab', serif;
 	line-height: 23px;
 }
 
-.nav {
-	/*padding-left: 50px;*/
-}
-
 .nav-tabs li a{
 	color: white;
 	border: none;
@@ -30,12 +26,10 @@ font-family: 'Roboto Slab', serif;
 	background: rgb(72,73,95);
 	border-bottom: 5px solid white;
 	padding-bottom: 5px;
-
 }
 
 .nav-tabs {
 	background-color: rgb(72,73,95);
-
 }
 
 .sitename {
