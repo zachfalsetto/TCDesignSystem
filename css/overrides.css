@@ -1,5 +1,5 @@
 /*Bootstrap overrides*/
-font-family: 'Roboto Slab', serif;
+/*font-family: 'Roboto Slab', serif;
 
 .navoverride {
 	min-width: 520px;
@@ -17,7 +17,7 @@ font-family: 'Roboto Slab', serif;
 .nav-tabs li a:hover {
 	color: white;
 /*	background: rgb(255,203,5);*/
-	border: none;
+/*	border: none;
 	border-bottom: 5px solid white;
 	padding-bottom: 5px;
 }
@@ -35,6 +35,43 @@ font-family: 'Roboto Slab', serif;
 .sitename {
 	margin-top: 10px;
 	/*margin-right: 50px;*/
+/*()	color: white;
+	font-weight: bold;
+}
+*/
+
+.navigation-bar ul   {
+	padding: 0px;
+	margin: 0px;
+  text-align: center;
+}
+
+.navigation-bar li {
+  display:inline;
+}
+.navigation-bar li a:hover {
+  border-bottom: 5px solid white;
+	padding-bottom: 2px;
+}
+
+.navigation-bar li a    {
+	color: white;
+	font-size: 16px;
+	font-family: Helvetica, Arial, sans-serif;
+	text-decoration: none;
+	margin-right: 16px;
+}
+
+.navigation-bar {
+  background-color: #2572B4;
+  height: 25px;
+  padding-top: 5px;
+}
+
+.sitename {
+	font-family: Helvetica ,Arial, sans-serif;
 	color: white;
 	font-weight: bold;
+  text-decoration: none;
+	margin-right: 16px;
 }
